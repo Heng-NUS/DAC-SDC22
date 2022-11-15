@@ -1,0 +1,6 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "yolov4-tiny-mydata-dr2cf.xmodel",
+    "kernel": "",
+    "target": "DPUCZDX8G_ISA0_B2304_MAX_BG2"
+}
